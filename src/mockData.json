@@ -1,0 +1,108 @@
+{
+  "user_id": "",
+  "name": "Logan",
+  "your_lists": [
+    {
+      "id": "1",
+      "category": "Aunts and Uncles",
+      "thumbnail": "https://source.unsplash.com/random/300x150/?uncle"
+    },
+    {
+      "id": "2",
+      "category": "Cousins 1st - 3rd",
+      "thumbnail": "https://source.unsplash.com/random/300x150/?cousins,family"
+    },
+    {
+      "id": "3",
+      "category": "Utah Family",
+      "thumbnail": "https://source.unsplash.com/random/300x150/?utah"
+    },
+    {
+      "id": "4",
+      "category": "California Family",
+      "thumbnail": "https://source.unsplash.com/random/300x150/?california"
+    },
+    {
+      "id": "5",
+      "category": "Aunts and Uncles",
+      "thumbnail": "https://source.unsplash.com/random/300x150/?corn"
+    },
+    {
+      "id": "6",
+      "category": "Cousins 1st - 3rd",
+      "thumbnail": "https://source.unsplash.com/random/300x150/?skateboard"
+    },
+    {
+      "id": "7",
+      "category": "Utah Family",
+      "thumbnail": "https://source.unsplash.com/random/300x150/?apple"
+    },
+    {
+      "id": "8",
+      "category": "California Family",
+      "thumbnail": "https://source.unsplash.com/random/300x150/?soap"
+    },
+    {
+      "id": "9",
+      "category": "Aunts and Uncles",
+      "thumbnail": "https://source.unsplash.com/random/300x150/?keys"
+    },
+    {
+      "id": "10",
+      "category": "Cousins 1st - 3rd",
+      "thumbnail": "https://source.unsplash.com/random/300x150/?chair"
+    },
+    {
+      "id": "11",
+      "category": "Utah Family",
+      "thumbnail": "https://source.unsplash.com/random/300x150/?couch"
+    },
+    {
+      "id": "12",
+      "category": "California Family",
+      "thumbnail": "https://source.unsplash.com/random/300x150/?spoon"
+    }
+  ],
+  "standard_lists": [
+    {
+      "id": "13",
+      "category": "Parents",
+      "thumbnail": "https://source.unsplash.com/random/300x150/?parents"
+    },
+    {
+      "id": "14",
+      "category": "Ancestors",
+      "thumbnail": "https://source.unsplash.com/random/300x150/?old"
+    },
+    {
+      "id": "15",
+      "category": "Kids",
+      "thumbnail": "https://source.unsplash.com/random/300x150/?children"
+    },
+    {
+      "id": "16",
+      "category": "Nieces and Nephews",
+      "thumbnail": "https://source.unsplash.com/random/300x150/?niece,nephew"
+    },
+    {
+      "id": "17",
+      "category": "Parents",
+      "thumbnail": "https://source.unsplash.com/random/300x150/?ocean"
+    },
+    {
+      "id": "18",
+      "category": "Ancestors",
+      "thumbnail": "https://source.unsplash.com/random/300x150/?tree"
+    },
+    {
+      "id": "19",
+      "category": "Kids",
+      "thumbnail": "https://source.unsplash.com/random/300x150/?sand"
+    },
+    {
+      "id": "20",
+      "category": "Nieces and Nephews",
+      "thumbnail": "https://source.unsplash.com/random/300x150/?forest"
+    }
+  ]
+}

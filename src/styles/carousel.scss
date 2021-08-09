@@ -1,0 +1,34 @@
+h3 {
+  text-align: left;
+  font-weight: 400;
+  font-size: 16px;
+  margin: 20px 0px 5px 5px;
+}
+.carousel-wrapper {
+  height: 152px;
+  display: flex;
+  align-items: center;
+
+  h1 {
+    margin: 10px 10px 0px 10px;
+    font-size: 45px;
+    font-weight: 400;
+    user-select: none;
+
+    &:hover {
+      cursor: pointer;
+    }
+  }
+
+  .carousel {
+    margin: 0px;
+    padding: 0px;
+    min-width: 100%;
+    max-width: 100%;
+    display: grid;
+    align-content: center;
+    grid-auto-flow: column;
+    overflow-x: scroll;
+    scroll-behavior: smooth;
+  }
+}

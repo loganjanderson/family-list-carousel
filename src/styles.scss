@@ -1,0 +1,13 @@
+@import "./styles/carousel.scss"; 
+@import "./styles/family-list.scss"; 
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h1, h2, h3 {
+  font-family: 'Poppins', sans-serif;
+}
